@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/rogervinas/spring-boot-maven-assembly-sample.svg?branch=master)](https://travis-ci.com/rogervinas/spring-boot-maven-assembly-sample)
+
 # spring boot & maven assembly
 
 Check spring boot repackage & maven assembly plugin
